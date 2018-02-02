@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=name\ age
+comment1.target=Dog(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ sayHam()
+numComments=3
