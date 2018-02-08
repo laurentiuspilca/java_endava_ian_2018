@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exemplu10
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=void\ m1(int[])
+comment3.params=x\ y
+comment3.target=void\ m2(java.lang.String,\ int[])
+comment4.params=x\ y
+comment4.target=void\ m3(int,\ int[])
+comment5.params=x
+comment5.target=void\ m4(int[][])
+numComments=6
