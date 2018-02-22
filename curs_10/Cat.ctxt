@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cat
+comment1.params=name\ age
+comment1.target=Cat(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=int\ hashCode()
+numComments=5

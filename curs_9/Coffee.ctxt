@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Coffee
+comment1.params=
+comment1.target=Coffee()
+comment2.params=qty
+comment2.target=Coffee(int)
+comment3.params=
+comment3.target=void\ drink()
+comment4.params=qty
+comment4.target=void\ refill(int)
+numComments=5
