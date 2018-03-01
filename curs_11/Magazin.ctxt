@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Magazin
+comment1.params=p
+comment1.target=Magazin(Produs[])
+comment2.params=
+comment2.target=Produs[]\ getP()
+comment3.params=p
+comment3.target=Produs[]\ makeCopy(Produs[])
+numComments=4
